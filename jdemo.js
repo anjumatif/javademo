@@ -52,4 +52,11 @@ let b = 25
 let isAgreaterthanB = a > b
 console.log(isAgreaterthanB)
 
+let favouriteProgrammingLanguage = "JavaScript";
+let currentCourseDay = 3;
+
+const sentence = `My favourite programming language is ${favouriteProgrammingLanguage}. We're on day ${currentCourseDay} of the course.`;
+
+console.log(sentence)
+
 
